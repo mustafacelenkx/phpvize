@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>20740021</title>
+	<title>Mustafa CELENK</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
